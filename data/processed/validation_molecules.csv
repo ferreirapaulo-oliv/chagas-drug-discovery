@@ -1,0 +1,4 @@
+molecule_chembl_id,smiles,IC50_nM,pchembl_value,doc_year,alogp,mol_weight,potency_class
+CHEMBL4447348,COC1=CC(=O)N(C(=O)/C=C/[C@H](Cc2ccccc2)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC(C)C)OC(=O)[C@H](C(C)C)N(C)C)[C@H]1CC(C)C,0.25,9.6,2019,4.66,696.93,0
+CHEMBL3628940,COCCC(C(=O)COc1c(F)c(F)cc(F)c1F)n1cc([C@@](C)(NCc2ccc3ncsc3c2)C2CCCC2)nn1,124.0,6.91,2015,5.87,605.66,1
+CHEMBL566706,O=C(CSc1nnc(-c2ccccc2)o1)N1CCN(c2ccccc2)CC1,30000.0,4.52,2010,3.18,380.47,2
